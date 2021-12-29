@@ -1,5 +1,5 @@
 import extractBody from "../../utils/request-body.js";
-import UserEntity from "./../models/user.mode.js";
+import UserEntity from "../models/user.model.js";
 
 /**
  *
